@@ -17,17 +17,6 @@ menu:
     link: /
     icon: ""
 
-  - text: Skills & Offers
-    link: /skills-and-offers
-    icon: ""
-
-  - text: Contact Me
-    link: /contact
-    icon: ""
-
-  - text: My Resume
-    link: /resume
-    icon: ""
 
 # Socialmedia Icons
 social_icons:
@@ -35,9 +24,7 @@ social_icons:
     link: https://github.com/AntsThatWander
     icon: fab fa-github-square
 
-  - name: facebook
-    link: https://www.facebook.com/christian.ezeani.cyb
-    icon: fab fa-facebook-square
+
 
 
 
