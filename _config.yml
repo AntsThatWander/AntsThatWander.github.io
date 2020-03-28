@@ -7,7 +7,6 @@ defaults:
       type: "pages"
     values:
       layout: default
-      title : "blah"
 
 title: Jonghyeop Lim
 subtitle: Preliminary developer! 
