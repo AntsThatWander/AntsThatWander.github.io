@@ -9,9 +9,9 @@ defaults:
       layout: default
 
 title: Jonghyeop Lim
-subtitle: |
-reliminary developer! 
-All hail Formica Japonica!
+subtitle: | 
+  Preliminary developer! 
+  All hail Formica Japonica!
 
 # Side Menu Links
 menu:
