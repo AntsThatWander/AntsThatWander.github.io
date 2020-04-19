@@ -18,12 +18,10 @@ menu:
     link: /AntsThatWanderPage
     icon: ""
 
-menu:
   - text: Minecraft ideas
     link: /Minecraft
     icon: ""
     
-menu:
   - text: Game ideas
     link: /GameDev
     icon: ""
