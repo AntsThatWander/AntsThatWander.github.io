@@ -2,8 +2,8 @@
 layout: default
 ---
 
-# MY PROFILE
+# Welcome!
 
-Hello, I'm AntsThatWander, whose Korean name is Jonghyeop Lim(임종협), and I'd like to greet you all visiting me!
+Welcome, Tralvers!
 
-I'm a sophomore in Hanyang University Erica! 
+Come and take a look freely!
